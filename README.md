@@ -3,6 +3,7 @@ A collection of machine learning algorithms implemented entirely from scratch us
 This repository is built for learning, transparency, and gaining deep insight into how ML models work under the hood.
 
 🚀 Algorithms Implemented
+
 Linear Regression
 
 Logistic Regression
@@ -18,6 +19,7 @@ Principal Component Analysis (PCA)
 Support Vector Machine (SVM)
 
 📚 Features
+
 Pure Python + NumPy
 
 Well-commented and beginner-friendly
